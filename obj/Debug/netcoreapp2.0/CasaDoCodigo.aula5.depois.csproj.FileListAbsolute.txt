@@ -1,0 +1,11 @@
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.deps.json
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.json
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.dev.json
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csprojAssemblyReference.cache
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csproj.CoreCompileInputs.cache
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfoInputs.cache
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfo.cs
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Users\Lenito\Desktop\Projeto\CSharpFormacaoAlura\Core2.0\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
